@@ -5,6 +5,11 @@
     display: flex;
     flex-direction: column;
     background-image: linear-gradient(#0a021a, #330099);
+    position: absolute;
+    align-items: flex-start;
+    
+    
+
 }
 
 .clouds {

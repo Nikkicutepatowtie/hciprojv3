@@ -1,0 +1,22 @@
+.main {
+    width: 100vw;
+    height: 225vh;
+    border: 1px solid blue;
+    display: flex;
+    flex-direction: column;
+    background-image: linear-gradient(#0a021a, #330099);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    position: absolute;
+    text-align: justify;
+    align-items: flex-start;
+    padding-top: 50px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    
+}
+
+.h1{
+    text-align: center;
+}
